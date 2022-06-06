@@ -1,0 +1,25 @@
+{
+ "name": "testactions",
+ "children": [
+  {
+   "title": "New Chapter",
+   "id": "2ffe1a31-1c53-2624-280f-346f4a4ebb57",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "New Section",
+     "id": "51091c51-1aa3-134a-5820-af8e4b01520f",
+     "type": "section",
+     "children": [
+      {
+       "title": "Simple Jupyter Grading",
+       "id": "05d4bd4f-a889-dcf4-f4b2-538d5eeb916d",
+       "type": "page",
+       "pageId": "05d4bd4f-a889-dcf4-f4b2-538d5eeb916d"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
